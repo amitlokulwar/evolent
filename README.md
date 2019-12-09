@@ -16,7 +16,7 @@ Installation Process
 Module Usage
 ------------
 
-1)To view the  contact form go to the URL  <domain>/evolent/contact/form
+1)I had created separate menu in Configuration Tab name as "Contact Form settings".
 2)Fill all the details and submit the form.
 3)Once the form is submitted you  will redirect to the contact list section which is <domain>/Evolent/contact/table
 4)Do the operation like edit or delete.
@@ -27,7 +27,7 @@ Validation
 
 1)All field are required to submit the form.
 2)Contact number  should be of 10 digits.
-3)Email should be in email format like amol@gmail.com.
+3)Email should be in email format like amit@gmail.com.
 
 More Informaiton :
 1) We have use pager if more recored is created, Pager will show if more the 5 reocrd is inserted.

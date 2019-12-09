@@ -1,0 +1,6 @@
+evolent.admin:
+  title: 'Contact Form settings'
+  description: 'how to make an cutome form with CRUD operations'
+  parent: system.admin_config_development
+  route_name: evolent.evolent_form
+  weight: 100
